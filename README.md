@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nikhil Mule
-#### I am a [Software Developer in Android & Kotlin]\
+#### I am a [Software Developer in Android & Kotlin]
 
 Skills:
 
@@ -13,7 +13,6 @@ Skills:
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/nick2601) 
   
 
-![Profile views](https://gpvc.arturio.dev/hi-manshu)  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nick2601&column=7"/>
