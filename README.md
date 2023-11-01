@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nikhil Mule
-#### I am a Software Developer in domain of Mobile Application Development
+#### I am a Software Developer working in Mobile Application Development
 
 
 - 🔭 I’m currently working on Android/Kotlin & Java as well as Flutter/Dart
