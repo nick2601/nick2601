@@ -14,14 +14,22 @@
 <table>
   <thead>
     <tr>
-      <th colspan="7">Languages</th>
+      <th colspan="7">Programming Languages</th>
     </tr>
   </thead>
    <tr>
+     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"/> </td>
     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td>
     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td>
     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
+    <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
+     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>  
   </tr>
+    <thead>
+    <tr>
+      <th colspan="7">Web Technologies</th>
+    </tr>
+  </thead>
   <tr>
     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
     <td> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
