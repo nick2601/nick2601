@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Android/Kotlin & Java as well as Flutter/Dart
-- 👯 I’m looking to collaborate on Android projects 
+- 👯 I’m looking to collaborate on Android  and Flutter projects
 - 📫 How to reach me: mule.nikhil@gmail.com
 
 
