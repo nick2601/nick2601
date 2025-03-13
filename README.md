@@ -15,7 +15,7 @@
 
 - 🔭 **Currently** expanding my skillsets in mobile app development using  Android and  Flutter.
 - 🎓 **MSc in Advanced Computer Science**, Swansea University, UK.
-- 🌱 **Learning**: Machine Learning, Cloud Computing.
+- 🌱 **Learning**: Machine Learning using Tensorflow,Pandas,Keras,Scikit,Pytorch,Numpy and Cloud Computing technologies GCP and AWS.
 - 😄 **Fun fact**: Passionate about solving logical puzzles and open source contribution.
 
 ---
@@ -25,13 +25,14 @@
   Supported programming labs, facilitating hands-on learning for students.
 
 - **Software Engineer** at **We3 Tech Works Pvt Ltd** *(2022 – 2024)*  
-  Built Android Stock Market and Asset Management applications, integrated REST APIs, upgraded compatibility to latest Android SDK.
+  Built features in Android/Flutter for Stock Market and Asset Management applications,
+  integrated REST APIs, upgraded compatibility to latest Android SDK.
   
 - **Software Engineer** at **MCLABS Pvt Ltd** *(2021 – 2022)*  
   Developed LTE-based mission-critical apps, SIP protocol integration for robust communication.
 
 - **Software Developer** at **NCETIS (IIT Bombay)** *(2020)*  
-  Developed calling features based on geo-location and added backend integ for MCX server.
+  Developed calling features based on geo-location and added backend API integration for MCX server.
 
 - **Junior Android Developer** at **Edunomics Tech Solutions** *(2019 – 2020)*  
   Built mobile apps with REST APIs, SQLite, Google Maps, and third-party integrations.
@@ -56,6 +57,18 @@
 ![Volley](https://img.shields.io/badge/Volley-4285F4?style=for-the-badge&logo=volley&logoColor=white)
 ![Linphone SIP](https://img.shields.io/badge/Linphone%20SIP-FF6F00?style=for-the-badge&logo=linphone&logoColor=white)
 ![Dagger 2/Hilt](https://img.shields.io/badge/Dagger%202/Hilt-FF6F00?style=for-the-badge&logo=dagger&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0175C2?style=for-the-badge&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF6C37?style=for-the-badge&logo=catboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-3776AB?style=for-the-badge&logo=bokeh&logoColor=white)
+![Altair](https://img.shields.io/badge/Altair-3776AB?style=for-the-badge&logo=altair&logoColor=white)
 
 ### ☁️ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
