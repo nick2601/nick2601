@@ -1,6 +1,7 @@
+
 ### 👋 Hi, I'm **Nikhil Mule**!
 
-📱 **Experienced Software Engineer | Android & Flutter Specialist**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+Software+Engineer;Android+%26+Flutter+Specialist;Passionate+Developer&font=Fira%20Code&size=22&pause=1000)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +9,7 @@
 
 Motivated Software Engineer with **4+ years** of experience specializing in Android (**Kotlin/Java**) and Flutter (**Dart**) development. Skilled in creating scalable mobile applications, integrating REST APIs, and following Agile methodologies. Recently completed MSc in **Advanced Computer Science** from **Swansea University, UK**.
 
-🔍 **Actively seeking roles** in mobile app development, cloud integration, and cross-platform solutions.
+🔍 **Actively seeking roles** in mobile app development, cloud integration, cross-platform solutions, and machine learning applications.
 
 ---
 
@@ -40,63 +41,67 @@ Motivated Software Engineer with **4+ years** of experience specializing in Andr
   - Implemented geo-location functionalities and enhanced server communication.
 
 - **Junior Android Developer** at **Edunomics Tech Solutions, Mumbai** *(Sep 2019 – Jan 2020)*
-  - Built robust Android applications using REST APIs, SQLite, and third-party integrations.
+  - Built Android applications integrating RESTful APIs and third-party services.
 
 ---
 
 ### 🚀 Technical Skills
 
-**Languages & Frameworks:**
+**Languages:**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries:**
 
-![Android Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-9C27B0?style=for-the-badge&logo=square&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Database & Cloud:**
+**Backend & Databases:**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Room](https://img.shields.io/badge/Room-7C4DFF?style=flat-square&logo=android&logoColor=white)
 
-**Tools & DevOps:**
+**CI/CD & DevOps:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
-
-### 🎖 Certifications
-
-- **Udacity Android Developer Nanodegree**
-- **Mindorks Professional Android Certification**
-- **Corporate Training in Flutter & Dart**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2601&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nick2601&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2601&layout=compact&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nick2601&theme=react-dark)](https://github.com/nick2601)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2601&show_icons=true&theme=radical)](https://github.com/nick2601)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2601&layout=compact&theme=radical)](https://github.com/nick2601?tab=repositories)
+
+**🚀 Explore my projects:** [GitHub Repositories](https://github.com/nick2601?tab=repositories)
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/nick2601/nick2601/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-mule2601)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick2601)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-mule2601)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/nick2601)
 
 📧 **Email:** [mule.nikhil@gmail.com](mailto:mule.nikhil@gmail.com)
 
