@@ -31,7 +31,7 @@
 - **Software Engineer** at **MCLABS Pvt Ltd** *(2021 – 2022)*  
   Developed LTE-based mission-critical apps, SIP protocol integration for robust communication.
 
-- **Software Developer** at **NCETIS (IIT Bombay)** *(2020)*  
+- **Software Developer** at **NCETIS (IIT Bombay)** *(2020 - 2021)*  
   Developed calling features based on geo-location and added backend API integration for MCX server.
 
 - **Junior Android Developer** at **Edunomics Tech Solutions** *(2019 – 2020)*  
