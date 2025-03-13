@@ -1,4 +1,3 @@
-```markdown
 ### 👋 Hi, I'm **Nikhil Mule**!
 
 📱 **Experienced Software Engineer | Android & Flutter Specialist**
@@ -102,5 +101,5 @@ Motivated Software Engineer with **4+ years** of experience specializing in Andr
 📧 **Email:** [mule.nikhil@gmail.com](mailto:mule.nikhil@gmail.com)
 
 ⭐ **Feel free to star or fork projects you find interesting!** 😊
-```
+
 
