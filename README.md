@@ -81,7 +81,7 @@ Motivated Software Engineer with **4+ years** of experience specializing in Andr
 
 ### 📊 GitHub Stats & Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nick2601&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nick2601&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nick2601&theme=react-dark)](https://github.com/nick2601)
 
@@ -89,13 +89,13 @@ Motivated Software Engineer with **4+ years** of experience specializing in Andr
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2601&layout=compact&theme=radical)](https://github.com/nick2601?tab=repositories)
 
-**🚀 Explore my projects:** [GitHub Repositories](https://github.com/nick2601?tab=repositories)
+**🚀 Explore my projects:** 
+[GitHub Repositories](https://github.com/nick2601?tab=repositories)
 
 ---
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/nick2601/nick2601/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🤝 Connect with Me
