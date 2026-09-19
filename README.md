@@ -16,7 +16,7 @@
 
 </div>
 
-> **Recruiter snapshot:** Senior Android / Mobile Engineer with **7+ years** of production experience across **public transit, fintech, and mission-critical communications**. I build scalable, high-performance mobile applications and help teams modernize delivery with Kotlin, Jetpack Compose, KMP, and AI-assisted engineering.
+Senior Android / Mobile Engineer with **7+ years** of production experience across **public transit, fintech, and mission-critical communications**. I build scalable, high-performance mobile applications and help teams modernize delivery with Kotlin, Jetpack Compose, KMP, and AI-assisted engineering.
 
 ## Why teams hire me
 
