@@ -1,130 +1,116 @@
+<div align="center">
 
-<div align="left">
+# Hi, I'm Nikhil Mule 👋
 
-# 👋 Hi, I'm **Nikhil Mule**!
+### Senior Android / Mobile Engineer · Kotlin · Jetpack Compose · Kotlin Multiplatform · AI/ML
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+Software+Engineer;Android+%26+Flutter+App+Developer&font=Fira%20Code&size=21&color=4A90E2&pause=1000)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikhilmule26.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Mule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mule2601)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mule.nikhil@gmail.com)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nick2601.nick2601&left_color=4A90E2&right_color=black" />
-
----
-
-<h3>Mobile & Cross-platform Application Developer based out of UK 🇬🇧</h3>
-
-✨ **About Me:**
-
-- 🔭 **Currently** expanding my skillsets in mobile app development using  Android and  Flutter.
-- 🎓 **MSc in Advanced Computer Science**, Swansea University, UK.
-- 🌱 **Learning**: Machine Learning using Tensorflow,Pandas,Keras,Scikit,Pytorch,Numpy and Cloud Computing technologies GCP and AWS.
-- 😄 **Fun fact**: Passionate about solving logical puzzles and open source contribution.
-
----
-
-### 💼 Professional Experience
-- **Teaching Assistant** at **Swansea University** *(2024 – 2025)*  
-  Supported programming labs, facilitating hands-on learning for students.
-
-- **Software Engineer** at **We3 Tech Works Pvt Ltd** *(2022 – 2024)*  
-  Built features in Android/Flutter for Stock Market and Asset Management applications,
-  integrated REST APIs, upgraded compatibility to latest Android SDK.
-  
-- **Software Engineer** at **MCLABS Pvt Ltd** *(2021 – 2022)*  
-  Developed LTE-based mission-critical apps, SIP protocol integration for robust communication.
-
-- **Software Developer** at **NCETIS (IIT Bombay)** *(2020 - 2021)*  
-  Developed calling features based on geo-location and added backend API integration for MCX server.
-
-- **Junior Android Developer** at **Edunomics Tech Solutions** *(2019 – 2020)*  
-  Built mobile apps with REST APIs, SQLite, Google Maps, and third-party integrations.
-
----
-
-### 🚀 My Tech Stack
-
-### 🛠 Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📱 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=coroutines&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-4285F4?style=for-the-badge&logo=retrofit&logoColor=white)
-![Volley](https://img.shields.io/badge/Volley-4285F4?style=for-the-badge&logo=volley&logoColor=white)
-![Linphone SIP](https://img.shields.io/badge/Linphone%20SIP-FF6F00?style=for-the-badge&logo=linphone&logoColor=white)
-![Dagger 2/Hilt](https://img.shields.io/badge/Dagger%202/Hilt-FF6F00?style=for-the-badge&logo=dagger&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-0175C2?style=for-the-badge&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FF6C37?style=for-the-badge&logo=catboost&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-3776AB?style=for-the-badge&logo=bokeh&logoColor=white)
-![Altair](https://img.shields.io/badge/Altair-3776AB?style=for-the-badge&logo=altair&logoColor=white)
-
-### ☁️ Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-7C4DFF?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![No SQL](https://img.shields.io/badge/No%20SQL-FF6F00?style=for-the-badge&logo=nosql&logoColor=white)
-
-### 🔒 Security
-![R8](https://img.shields.io/badge/R8-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Proguard](https://img.shields.io/badge/Proguard-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Android Keystore](https://img.shields.io/badge/Android%20Keystore-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
-#### CI/CD & DevOps
-![Git](https://skillicons.dev/icons?i=git)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Docker](https://skillicons.dev/icons?i=docker)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nick2601&theme=onedark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2601&show_icons=true&theme=onedark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2601&layout=compact&theme=onedark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nick2601&theme=github)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nick2601&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-mule2601)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick2601)
-
-📧 **Email:** [mule.nikhil@gmail.com](mailto:mule.nikhil@gmail.com)
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>Feel free to say</b> <b>hi, I'd be delighted to chat!</b></em>
-
----
-
-⭐ **If you like my work, feel free to star or fork!** 😊
-
-🐍 **Happy Coding!**
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nick2601.nick2601&left_color=0A66C2&right_color=1F2937" alt="Profile visitors" />
 
 </div>
 
+## About me
 
+I'm a Senior Android / Mobile Engineer in **Mumbai, India**, with **7+ years of experience** building reliable, production-grade mobile applications across fintech, public transit, and mission-critical communications.
+
+I focus on modern Android development with **Kotlin, Jetpack Compose, Kotlin Multiplatform, Coroutines/Flow, Clean Architecture**, and offline-first product experiences. I also use AI-assisted engineering workflows and on-device ML to help teams deliver high-quality features faster.
+
+- 🔭 Currently building large-scale, multi-modal transit experiences at **CDP India Pvt Ltd**
+- 📱 Experienced in modernizing Android apps—from XML/ViewBinding to **Jetpack Compose**
+- 🧩 Building shared mobile business logic with **Kotlin Multiplatform (KMP)**
+- 🤖 Interested in **Generative AI, agentic workflows, GitHub Copilot**, and on-device machine learning
+- 🎓 MSc in Advanced Computer Science (Merit), **Swansea University**
+
+## Impact at a glance
+
+| | |
+|---|---|
+| 📲 **7+ years** | Professional Android and cross-platform engineering experience |
+| 🚀 **~50% faster UI delivery** | Through migration from XML-based UI to Jetpack Compose |
+| 🛠️ **~40% faster development** | With AI-assisted workflows, test generation, and refactoring |
+| ⚡ **~30% better responsiveness** | Via profiling, query tuning, and lazy-loading strategies |
+| ✅ **99.5% crash-free releases** | Delivered for production mobile applications |
+
+## Core expertise
+
+```text
+Android Engineering       Kotlin · Java · Android SDK · Jetpack Compose · Material 3
+Cross-platform            Kotlin Multiplatform · Flutter · Dart
+Architecture              Clean Architecture · MVVM · MVI · Repository · Multi-module · SOLID
+Async & Data              Coroutines · Flow · StateFlow · Room · SQLite · DataStore · Paging 3
+Mobile Quality            JUnit 5 · Mockito · Espresso · UI Automator · TDD · CI/CD
+Performance               Baseline Profiles · Startup Tracing · ANR/Crash Analysis · LeakCanary · R8
+AI / Machine Learning     TensorFlow Lite · ML Kit · Computer Vision · Generative & Agentic AI
+Platform & Services       Firebase · REST · GraphQL · WebSocket · FCM · Maps · Payments
+```
+
+## Technology stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,python,tensorflow,firebase,sqlite,mysql,git,github,gitlab,gradle,docker,jenkins&perline=8" alt="Technology stack" />
+</p>
+
+**Also working with:** Hilt, Dagger, Koin, Retrofit, OkHttp, WorkManager, Navigation, Firebase Remote Config, Crashlytics, Analytics, A/B testing, GitHub Actions, Play Console, SIP/VoIP, Socket.IO, and GraphQL.
+
+## Selected work
+
+### 🚇 Large-scale multi-modal transit platform
+**Senior Android Engineer · CDP India Pvt Ltd · 2026–Present**
+
+- Leading Android development for a multi-modal public-transit app covering rail, bus, metro, monorail, and ferry journeys.
+- Modernizing the application with Jetpack Compose and lifecycle-safe Coroutines/Flow patterns.
+- Developing a lightweight Android experience with Kotlin Multiplatform shared business and data layers.
+- Improving startup behavior, reliability, monetization integrations, and experimentation using Firebase Remote Config and Analytics.
+
+### 📈 Fintech and asset-management applications
+**Software Engineer · We3 Tech Works · 2022–2024**
+
+- Built and enhanced performance-critical mobile workflows for stock trading and asset-management products.
+- Applied Clean Architecture, Hilt, profiling, data-layer tuning, and lazy loading to improve maintainability and responsiveness.
+- Integrated TensorFlow Lite for on-device predictions and migrated native modules to Flutter for cross-platform delivery.
+
+### 📡 Mission-critical communications
+**Software Engineer · MCLABS / NCETIS (IIT Bombay) · 2020–2022**
+
+- Developed LTE-based Android communication applications aligned with 3GPP and ETSI-oriented mission-critical use cases.
+- Delivered SIP/VoIP calling, messaging, secure file transfer, location-aware features, and MCX Push-to-Talk capabilities using Linphone SDK.
+
+## Projects
+
+### 🧠 Memory Maths
+**Flutter · Cross-platform · Accessibility · EdTech**
+
+A cross-platform mathematics-learning application for Android, iOS, Windows, Linux, and macOS. Built with adaptive gameplay, cognitive exercises, accessible UI patterns, and a maintainable Provider + GetIt architecture.
+
+### 🛰️ Land Cover Detection Using Aerial Imagery
+**Machine Learning · Computer Vision · Python**
+
+An aerial-image classification project using CNNs, PCA/LDA, and K-Means on the UC Merced Land Use Dataset. Built reusable pipelines for experimentation, augmentation, tuning, and model evaluation, achieving approximately **92% classification accuracy**.
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nick2601&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Nikhil's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2601&layout=compact&hide_border=true&theme=transparent" alt="Nikhil's most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nick2601&hide_border=true&theme=transparent" alt="Nikhil's contribution streak" />
+</div>
+
+## Let's connect
+
+I'm open to discussing Android engineering, Kotlin Multiplatform, mobile architecture, AI-assisted development, and interesting product challenges.
+
+- 🌐 Portfolio: [nikhilmule26.netlify.app](https://nikhilmule26.netlify.app)
+- 💼 LinkedIn: [nikhil-mule2601](https://www.linkedin.com/in/nikhil-mule2601)
+- ✉️ Email: [mule.nikhil@gmail.com](mailto:mule.nikhil@gmail.com)
+
+<div align="center">
+
+*Building thoughtful, performant mobile experiences—one release at a time.*
+
+</div>
