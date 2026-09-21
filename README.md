@@ -10,13 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mule2601)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mule.nikhil@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1500&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+reliable+mobile+products+at+scale;+Modern+Android+%7C+Kotlin+Multiplatform+%7C+AI-assisted+delivery)](https://nikhilmule26.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1500&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+reliable+mobile+products+at+scale%3B+Modern+Android+%7C+Kotlin+Multiplatform+%7C+AI-assisted+delivery)](https://nikhilmule26.netlify.app)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nick2601.nick2601&left_color=0A66C2&right_color=1F2937" alt="Profile visitors" />
 
 </div>
 
-Senior Android / Mobile Engineer with **7+ years** of production experience across **public transit, fintech, and mission-critical communications**. I build scalable, high-performance mobile applications and help teams modernize delivery with Kotlin, Jetpack Compose, KMP, and AI-assisted engineering.
+Senior Android / Mobile Engineer with **7+ years** of production experience across **public transit, fintech, and mission-critical communications**. I build scalable, high-performance mobile applications and lead modernization initiatives from architecture through delivery.
 
 ## Why teams hire me
 
@@ -141,7 +141,7 @@ Senior Android / Mobile Engineer with **7+ years** of production experience acro
 ### 🧠 Memory Maths
 **Flutter · EdTech · Accessibility · Cross-platform**
 
-An accessible mathematics-learning app for Android, iOS, Windows, Linux, and macOS. Features adaptive gameplay, cognitive exercises, screen-reader support, high-contrast UI, and a maintainable Provider + GetIt architecture.
+An accessible mathematics-learning app for Android, iOS, Windows, Linux, and macOS. Features adaptive gameplay, cognitive exercises, screen-reader support, high-contrast UI, and a maintainable Provider-based architecture.
 
 </td>
 <td width="50%" valign="top">
